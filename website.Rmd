@@ -1,0 +1,17 @@
+---
+title: "My Website"
+output:
+  html_document:
+    theme: cosmo
+---
+
+# Welcome
+
+test
+
+## Section 1: Introduction
+
+test
+
+```{r}
+message("Hello, world!")
